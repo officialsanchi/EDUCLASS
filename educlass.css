@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+   background-color: rgb#2374ee;
+   margin-left: 100px;
+   margin-top: 50px;
+
+}
+.bot{
+    background-color: #2374ee;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    color: white;    
+    border: none;  
+    margin-right: 90px; 
+}
+.mode{
+    margin-top: 200px;
+    
+}
+
+button{
+    text-decoration: none;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+
+}
+.edu{
+    font-size: 20px;
+}
+.nav{
+    color: gray;
+    margin-right: 100px;
+    /* margin-left: 100px; */
+    
+}
+.mode{
+    margin-top: 90px;
+    font-size: 100px;
+}
+/* .btn{
+    color: white;
+    width: 100px;
+    height: 10px;
+    border-radius: 5px;
+    height: 50px;
+    
+} */
+.secondContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 70px;
+}
+.photo{
+    margin-left: 40px;
+    width: 500px;
+    height: 550px;
+    margin-left: 200px;
+}
+.boot{
+    width: 90px;
+    height: 40px;
+    background-color: #2374ee;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+.showcase{
+    color: gray;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.innerModern{
+    display: flex;
+    margin-top: 30px;
+    gap: 40px;
+    
+}
+.view{
+    width: fit-content;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    width: fit-content;
+
+}
+.img{
+    height: 25px;
+}
+.modern{
+    margin-left: 100px;
+    gap: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+}
+.text{
+    margin-left: 500px;
+}
+.text2{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.innerSeventhContainer{
+    margin-left: 400px;
+    margin-top: 100px;
+    
+    
+}
+.school{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 100px;
+   
+}
+.seventhContainer{
+    background-color: #2374ee;
+    color: white;
+
+}
+.btn{
+    margin-left: 600px;
+    margin-top: 100px;
+    border-radius: 20px;
+    background-color:#2374ee;
+    list-style: none;
+    text-align: none;
+    text-decoration: none;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+.eightContainer{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.seconderInnerSeventhContainer{
+    margin-left: 100px;
+}
+.lorem{
+    margin-top: 60px;
+}
+.sixContainer{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.fifthContainer{
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+.fourthContainer{
+    margin-left: 200px;
+    margin-top: 100px;
+
+
+}
+.thirdContainer{
+    margin-left: 90px;
+    margin-top: 100px;
+
+
+}
+.ninthContainer{
+    margin-left: 50px;
+    width: 100%;
+    height: 50px;
+}
